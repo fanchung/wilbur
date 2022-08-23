@@ -16,4 +16,4 @@ admin.site.register(ShopAdSidebar)
 admin.site.register(HotDealAd)
 admin.site.register(HeadTextAd)
 
-##
+## @@
